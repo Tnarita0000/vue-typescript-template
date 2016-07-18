@@ -25,5 +25,6 @@
       "label": "License",
       "default": "MIT"
     }
-  }
+  },
+   "completeMessage": "Done! To get started:\n\n  cd {{destDirName}}\n  npm install\n  npm run dev\n\n"
 }

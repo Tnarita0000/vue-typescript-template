@@ -1,6 +1,6 @@
 # vue.js + typescript project template for vue-cli
 
-![](http://i.imgur.com/QP9IuzJ.png)
+![](https://i.imgur.com/4aNZrAs.png)
 
 This is a starter project for vue-typescript using webpack and bootstrap
 

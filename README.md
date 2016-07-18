@@ -16,7 +16,7 @@ Usage:
 
 ```
 npm install -g vue-cli
-vue init danielschmitz/vue-typescript-seed myProject
+vue init danielschmitz/vue-typescript-template myProject
 cd myProject
 npm install
 ```

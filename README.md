@@ -14,7 +14,7 @@ Packages included:
 - bootstrap 3
 - jquery 2.2.4
 
-Usage:
+## Usage
 
 ```
 npm install -g vue-cli
@@ -24,7 +24,7 @@ npm install
 ```
 
 
-Scripts:
+## Scripts
 
 `npm run dev` - will start a local dev server at localhost:8080
 

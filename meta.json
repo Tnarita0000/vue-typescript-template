@@ -1,0 +1,29 @@
+{
+  "schema": {
+    "name": {
+      "type": "string",
+      "required": true,
+      "label": "Project name"
+    },
+    "description": {
+      "type": "string",
+      "required": true,
+      "label": "Project description",
+      "default": "A Vue.js + Typescript project"
+    },
+    "author": {
+      "type": "string",
+      "label": "Author"
+    },
+    "version": {
+      "type": "string",
+      "label": "Version",
+      "default": "0.0.1"
+    },
+    "license": {
+      "type": "string",
+      "label": "License",
+      "default": "MIT"
+    }
+  }
+}
